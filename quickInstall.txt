@@ -1,0 +1,6 @@
+conda env create -f enviorment.yaml
+
+
+source activate tflearn
+
+
