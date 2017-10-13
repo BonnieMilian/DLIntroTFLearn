@@ -3,6 +3,7 @@
 
 ## Instalación
 Instalar Conda https://www.anaconda.com/download/#linux
+
 Linux:
 ```
 conda env create -f enviorment.yaml
