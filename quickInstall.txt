@@ -1,6 +1,6 @@
+# Instalar Conda https://www.anaconda.com/download/#linux
+
 conda env create -f enviorment.yaml
 
 
 source activate tflearn
-
-
