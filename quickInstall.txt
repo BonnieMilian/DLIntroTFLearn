@@ -3,4 +3,4 @@
 conda env create -f enviorment.yaml
 
 
-source activate tflearn
+source activate workshop

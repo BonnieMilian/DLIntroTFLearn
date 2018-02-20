@@ -2,24 +2,42 @@
 
 
 ## Instalación
-Instalar Conda https://www.anaconda.com/download/#linux
+Instalar Conda Linux: https://www.anaconda.com/download/#linux
 
-Linux:
+Instalar Conda Windows: https://www.anaconda.com/download/#download
+
+Linux, Windows, MacOS:
 ```
 conda env create -f enviorment.yaml
 
-source activate tflearn
 ```
 
 
 ## Activar el Ambiente
-Linux:
+Linux y MacOS:
 ```
-source activate tflearn
+source activate workshop
+```
+
+Windows:
+```
+source activate workshop
 ```
 
 
 ## Ejecutar el Cuaderno de Jupyter
 ```
 jupyter notebook TFLearn_Sentiment_Analysis.ipynb
+```
+
+
+## Desactivar el Ambiente
+Linux y MacOS:
+```
+source deactivate
+```
+
+Windows:
+```
+deactivate
 ```
