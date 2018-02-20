@@ -45,4 +45,4 @@ deactivate
 ## Sin Anaconda
 Si no deseas descargar anaconda esta bien, solo asegurate de instalar todos los requirements correctamente.
 
-Prueba ejecutar la primera del cuarderno, si no da error esta bien :)
+Prueba ejecutar la primera celda del cuarderno, si no da error esta bien :)
